@@ -48,3 +48,11 @@ body {
   .game-info {
     margin-left: 20px;
   }
+
+  .current-move{
+    background-color: red;
+  }
+
+  .square-winner{
+    background-color: greenyellow !important;
+  }
